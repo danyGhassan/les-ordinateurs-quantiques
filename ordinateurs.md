@@ -8,7 +8,7 @@
 - IV - Les inconvénients des ordinateurs quantiques
 - V - Les entreprises et les organisations impliquées dans le développement des ordinateurs quantiques
 - VI - A quoi ressemble un ordinateur quantique
-- VII - Conclustion 
+- VII - Conclusion
 
 ## I - Qu'est-ce qu'un ordinateur quantique
 
@@ -16,46 +16,46 @@ Un ordinateur quantique est un appareil informatique basé sur les principes de 
 
 ## II - Les principes de base de l'informatique quantique
 
-### Superposition :
+- ### Superposition :
 Un principe fondamental de la mécanique quantique dans lequel un système peut exister dans plusieurs états à la fois, c'est a dire qu'il peut traiter plusieurs tâches en même temps, contrairement à l'état binaire des ordinateurs classiques.
 
-### Entrelacement :
+- ### Entrelacement :
 Les qubits peuvent partager des informations de manière instantanée, établissant ainsi des liens uniques et efficaces entre eux.
 
-### Interférence quantique :
+- ### Interférence quantique :
 Un phénomène qui permet aux qubits de se comporter de manière constructive ou destructive, affectant le résultat des calculs et des opérations.
 
 ## III - Les avantages des ordinateurs quantiques
 
-### Calculs complexes :
+- ### Calculs complexes :
 Les ordinateurs quantiques peuvent résoudre des problèmes complexes, tels que la factorisation d'entiers, beaucoup plus rapidement que les ordinateurs classiques.
 
-### Cryptographie avancée :
+- ### Cryptographie avancée :
 Ils offrent la possibilité de développer des systèmes de cryptage extrêmement sécurisés, capables de contrer toute forme de piratage informatique.
 
-### Simulations précises
+- ### Simulations précises
 Les ordinateurs quantiques ont la possibilité de simuler des phénomènes naturels complexes qui peut révolutionner la recherche scientifique et le développement de nouveaux matériaux.
 
 ## IV - Les inconvénients des ordinateurs quantiques
 
-### Fragilité : 
+- ### Fragilité : 
 La fragilité des qubits face aux interférences extérieures limite la durée pendant laquelle les informations quantiques peuvent être conservées.
 
-### Erreurs quantiques :
+- ### Erreurs quantiques :
 Les opérations effectuées sur les qubits sont sujettes à des erreurs, ce qui rend difficile la construction de systèmes informatiques fiables et précis.
 
-### Complexité de l'ingénierie : 
+- ### Complexité de l'ingénierie : 
 La création d'un ordinateurs quantique est très complexe et couteux.
 
 ## V - Les entreprises et les organisations impliquées dans le développement des ordinateurs quantiques
 
-### Les scientifiques : 
+- ### Les scientifiques : 
 Des équipes multidisciplinaires de chercheurs collaborent pour avancer dans le développement de technologies quantiques révolutionnaires.
 
-### Laboratoires de Recherche :
+- ### Laboratoires de Recherche :
 Des laboratoires de pointe équipés des technologies de pointe sont dédiés à la recherche et au développement dans le domaine des ordinateurs quantiques.
 
-### Des investisseurs :
+- ### Des investisseurs :
 Des entreprises et des investisseurs visionnaires soutiennent financièrement la recherche et le développement des ordinateurs quantiques.
 
 ## VI - A quoi ressemble un ordinateur quantique
